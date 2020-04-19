@@ -1,11 +1,13 @@
 ### Interval timer for training session.
 
 Download the file timer.py as well as the three .wav files.
-On your terminal with the current location where the 4 downloaded files are, activate python and type "run timer.py".
+On your terminal with the current location where the 4 downloaded files are, activate python3 and type "run timer.py".
 Then, follow the steps:
  1. Choose the number of repetition,
  2. Then the duration of each repetition (in sec),
  3. And finally how much time (in sec) before the end of the repetition you want a warning (if this is set to zero, there won't be any warning)
+ 
+For a user interface, download "timer_ui.py" and type "run timer_ui.py" within your terminal with Python3 activated
 
 Dependency: VLC media (with CVLC)
 
